@@ -1,28 +1,21 @@
 ###################### Slim To ERB ############################
 
-I don't hate slim, but its a real pain :p 
-
-i got a project that was all written in slim, and i had to convert it
-into erb.. for to make changes. so i got this little script for to help convert slim to erb. 
-anyways here is how it works. 
+NOTE: Make sure to have backup project before you use this script
 
 
-you need 
-1: 
-gem install slim-rails
+
+1:  gem install slim-rails
  
 once you have that gem installed. 
 
 cd into YourProject/app/views folder, where your slim files live.
 
-2:
-Download Script.sh file. 
+2:  Download Script.sh file. 
 
-3. 
+3:  Bash script.sh 
 
-bash script.sh 
+wait for few seconds, 
+and all your slim files converted into erb equivalent. 
+and will delete original slim files.. 
 
-wait for few moments. 
 
-if necessory.. delete your slim files.
-you are done :) enjoy .. 
