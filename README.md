@@ -14,8 +14,11 @@ cd into YourProject/app/views folder, where your slim files live.
 
 3:  bash slim2erb.sh 
 
+
 wait for few seconds, 
 and all your slim files converted into erb equivalent. 
 and will delete original slim files.. 
+
+
 
 
